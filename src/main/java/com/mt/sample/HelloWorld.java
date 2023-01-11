@@ -9,7 +9,7 @@ import java.util.Date;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Welcome tojar-application !! Today's Date is:  " + getLocalCurrentDate());
+		System.out.println("Hello Welcome to my jar-application !! Today's Date is:  " + getLocalCurrentDate());
 
 	}
 
